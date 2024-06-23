@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CLearnApp/static/css/main.3c8de49b.css",
-    "main.js": "/CLearnApp/static/js/main.beb04373.js",
+    "main.js": "/CLearnApp/static/js/main.4328045e.js",
     "static/media/backgroundq.jpg": "/CLearnApp/static/media/backgroundq.6b04a404f2b8719f4011.jpg",
     "static/media/background.jpg": "/CLearnApp/static/media/background.b6bff4c2d6ed4db2691c.jpg",
     "static/media/LOGOISMAIL.png": "/CLearnApp/static/media/LOGOISMAIL.9cba85d0ef14b740d6c1.png",
     "index.html": "/CLearnApp/index.html",
     "main.3c8de49b.css.map": "/CLearnApp/static/css/main.3c8de49b.css.map",
-    "main.beb04373.js.map": "/CLearnApp/static/js/main.beb04373.js.map"
+    "main.4328045e.js.map": "/CLearnApp/static/js/main.4328045e.js.map"
   },
   "entrypoints": [
     "static/css/main.3c8de49b.css",
-    "static/js/main.beb04373.js"
+    "static/js/main.4328045e.js"
   ]
 }
