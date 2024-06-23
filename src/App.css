@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.shhadow {
+    text-shadow: 0px 5px 15px #0ea5e942;
+}
+
+.shhadowr {
+    text-shadow: 0px 5px 15px #e90e0e42;
+}
+
+.text-shadow-white {
+    text-shadow: 0 0 0px rgba(255, 255, 255, 1);
+  }
+
+  .text-shadow-white:hover {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.700);
+  }
